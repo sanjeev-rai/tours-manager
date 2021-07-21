@@ -1,5 +1,5 @@
 # tours-manager
 
 
-tours-manager project from udemy.
+tours-manager project
 
