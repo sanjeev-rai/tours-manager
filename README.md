@@ -1,3 +1,5 @@
 # tours-manager
 
-project to learn node from udemy.
+
+tours-manager project from udemy.
+
